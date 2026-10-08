@@ -1,0 +1,10 @@
+User: Viorel
+Type: Powerlifter
+Phase: Bulk
+Age: 34
+Gender: M
+Weight: 67
+Height: 150
+Squat: 200
+Bench: 225
+Deadlift: 300

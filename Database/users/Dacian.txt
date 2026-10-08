@@ -1,0 +1,10 @@
+User: Dacian
+Type: Powerlifter
+Phase: Bulk
+Age: 21
+Gender: M
+Weight: 59
+Height: 170
+Squat: 100
+Bench: 70
+Deadlift: 120

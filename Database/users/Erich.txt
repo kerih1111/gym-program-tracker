@@ -1,0 +1,10 @@
+User: Erich
+Type: Powerlifter
+Phase: Cut
+Age: 21
+Gender: M
+Weight: 93
+Height: 191
+Squat: 180
+Bench: 140
+Deadlift: 200
